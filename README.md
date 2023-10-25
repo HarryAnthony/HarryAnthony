@@ -6,7 +6,7 @@ My name is Harry Anthony and I am a DPhil student at the University of Oxford. A
 
 <h3>Where to find me</h3>
 <p><a href="http://www.harryanthony.co.uk" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white "/></a>
-<a href="https://twitter.com/HarryEJAnthony" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/HarryEJAnthony" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white " /></a>
 <a href="https://www.linkedin.com/in/harry-a-859b1a107/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=Qml3h9gAAAAJ" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white "/></a>
 <a href="https://www.researchgate.net/profile/Harry-Anthony" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white "/></a>

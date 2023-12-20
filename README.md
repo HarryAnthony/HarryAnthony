@@ -3,7 +3,7 @@ My name is Harry Anthony and I am a DPhil student at the University of Oxford. A
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryAnthony&show_icons=true&theme=transparent"/>
-  <img src="https://streak-stats.demolab.com/?user=HarryAnthony"/>
+  <img src="https://streak-stats.demolab.com/?user=HarryAnthony&theme=transparent"/>
 </div>
 
 
